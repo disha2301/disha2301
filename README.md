@@ -1,4 +1,4 @@
-<img src="./banner1.png" />
+<img src="./banner2.png" />
 
 <h1 align="left">Hi there, This is <a href= "https://www.linkedin.com/in/abdul-a-53b146129" target="_blank" rel="noopener noreferrer">Disha Yadav</a> <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" height="30" /></h1>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Competitive+programmer..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
