@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="![image](https://github.com/disha2301/disha2301/assets/91051022/27b95dc1-e568-47a7-8655-3e119f18e144)
-" />
+  <img src="./image.png" />
+
 </p>
 
 ```js
 import Developer from 'disha2301';
-
 class Bio extends Developer {
   name     = 'Disha Yadav';
   title    = 'Fast Learner';
