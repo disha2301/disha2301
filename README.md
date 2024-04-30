@@ -8,7 +8,7 @@ import Developer from 'disha2301';
 class Bio extends Developer {
   name     = 'Disha Yadav';
   title    = 'Fast Learner';
-  field    = 'frontend development, backend development, coding, cloud computing', java, C, C++, redux, SASS, tailwind, ChakraUI, mongoDB, figma;
+  field    = 'frontend development, backend development, coding, cloud computing', java, C, C++, redux, SASS, tailwind, ChakraUI, mongoDB, figma, node.js;
   location = 'Chennai || Prayagraj';
 }
 
